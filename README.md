@@ -1,2 +1,2 @@
 # LangGraph
-this repo contains
+this repo contains codes written in langgraph
