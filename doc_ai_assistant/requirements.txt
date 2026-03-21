@@ -6,3 +6,6 @@ chromadb
 beautifulsoup4
 requests
 tqdm
+llama-index
+llama-index-readers-web
+sentence-transformers
